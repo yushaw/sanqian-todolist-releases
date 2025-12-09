@@ -1,12 +1,12 @@
-# Sanqian Todo Releases / 三芊待办发布页
+# Sanqian Todo Releases / 三千待办发布页
 
 Welcome to the official release repository for **Sanqian Todo**.
-欢迎来到 **三芊待办** 的官方发布仓库。
+欢迎来到 **三千待办** 的发布仓库。
 
 ## Introduction / 简介
 
 Sanqian Todo is a Zen-style TodoList application powered by Sanqian Agent, designed to help you organize tasks with focus and clarity.
-三芊待办是一个由三芊智能体驱动的禅意待办清单应用，旨在帮助您以专注和清晰的方式组织任务。
+三千待办是一个由三千智能体驱动的禅意待办清单应用，旨在帮助您以专注和清晰的方式组织任务。
 
 ## Feedback & Support / 反馈与支持
 
